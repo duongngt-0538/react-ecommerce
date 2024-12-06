@@ -1,0 +1,56 @@
+.ais-Pagination-list {
+  justify-content: center;
+}
+
+.ais-Pagination-item {
+  height: 38px;
+  width: 38px;
+  color: #414247;
+  background-color: rgba(65, 66, 71, .08);
+  border-radius: 4px;
+}
+
+.ais-Pagination-item.ais-Pagination-item--previousPage {
+  margin-right: 1rem;
+}
+
+.ais-Pagination-item.ais-Pagination-item--nextPage {
+  margin-left: calc(1rem - 4px);
+}
+
+.ais-Pagination-item--firstPage, .ais-Pagination-item--previousPage, .ais-Pagination-item--nextPage, .ais-Pagination-item--lastPage {
+  background: 0 0;
+}
+
+.ais-Pagination-item--disabled {
+  opacity: .33;
+}
+
+.ais-Pagination-item:not(.ais-Pagination-item--disabled) .ais-Pagination-link {
+  cursor: pointer;
+}
+
+.ais-Pagination-link {
+  height: 100%;
+  width: 100%;
+}
+
+.ais-Pagination-item, .ais-Pagination-link {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.ais-Pagination-item.ais-Pagination-item--page {
+  margin-right: 4px;
+}
+
+.ais-Pagination-item--selected {
+  background-color: #e2a400;
+  background-image: linear-gradient(rgba(255, 255, 255, .34), rgba(255, 255, 255, 0));
+  font-weight: 700;
+}
+
+.ais-Pagination-item--selected span {
+  color: #fff;
+}

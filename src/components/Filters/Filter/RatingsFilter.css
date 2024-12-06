@@ -1,0 +1,21 @@
+.ais-RatingMenu-item:not(.ais-RatingMenu-item--selected) {
+  opacity: .5;
+}
+
+.ais-RatingMenu-starIcon {
+  margin-right: .5rem
+}
+
+.ais-RatingMenu-starIcon {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.ais-RatingMenu-starIcon--full {
+  fill: #e2a400;
+}
+
+.ais-RatingMenu-starIcon--empty {
+  fill: rgba(0, 0, 0, .08);
+}

@@ -1,0 +1,61 @@
+.ais-ToggleRefinement-label {
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  display: flex;
+  cursor: pointer;
+}
+
+.ais-ToggleRefinement-checkbox {
+  font: inherit;
+  margin-left: 1rem;
+  margin-right: 0;
+  position: relative;
+}
+
+.ais-ToggleRefinement-checkbox {
+  -ms-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  height: 16px;
+  min-width: 30px;
+  background: rgba(65, 66, 71, .08);
+  border: none;
+  border-radius: 8px;
+  margin-right: 16px;
+  transition: background .15s ease-out;
+}
+
+.ais-ToggleRefinement-checkbox:checked {
+  background: #e2a400;
+}
+
+.ais-ToggleRefinement-checkbox:before {
+  color: rgba(33, 36, 61, .32);
+  content: "No";
+  height: 16px;
+  align-items: center;
+  font-size: .8rem;
+  display: flex;
+  position: absolute;
+  right: 38px;
+}
+
+.ais-ToggleRefinement-checkbox:checked:before {
+  content: "Yes";
+  color: #e2a400;
+}
+
+.ais-ToggleRefinement-checkbox:after {
+  content: "";
+  height: 16px;
+  width: 16px;
+  background-image: linear-gradient(#fff, #f5f5fa);
+  border-radius: 100%;
+  transition: transform .15s ease-out;
+  position: absolute;
+  box-shadow: 0 4px 11px rgba(37, 44, 97, .15), 0 2px 3px rgba(93, 100, 148, .2);
+}
+
+.ais-ToggleRefinement-checkbox:checked:after {
+  transform: translate(100%);
+}

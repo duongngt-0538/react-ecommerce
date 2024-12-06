@@ -1,0 +1,11 @@
+.ais-Hits-list {
+  grid-gap: 40px;
+  grid-template-columns: 1fr;
+  display: grid;
+}
+
+@media (min-width: 1200px) {
+  .ais-Hits-list {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}

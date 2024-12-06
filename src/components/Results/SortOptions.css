@@ -1,0 +1,21 @@
+.container-options select {
+  min-width: 100px;
+}
+
+.ais-SortBy, .ais-HitsPerPage {
+  position: relative;
+}
+
+.ais-SortBy:after, .ais-HitsPerPage:after {
+  content: url(../../assets/chev-down.svg);
+  display: inline-block;
+}
+
+.ais-SortBy-select, .ais-HitsPerPage-select {
+  -ms-appearance: none;
+  appearance: none;
+  color: #21243d;
+  background: 0 0;
+  border: none;
+  font-family: inherit;
+}

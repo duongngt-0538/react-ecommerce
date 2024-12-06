@@ -1,0 +1,130 @@
+.header {
+  color: #fff;
+  text-align: center;
+  min-height: 368px;
+  padding: 0.5rem 1rem;
+  background-color: transparent;
+  background-image: url('../../assets/cover.png'),
+    linear-gradient(#fbc300, #c98a00);
+  background-position: 50%;
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  background-origin: padding-box;
+  background-clip: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-logo svg {
+  width: 92px;
+  height: 24px;
+}
+
+.header-title {
+  font-size: 38px;
+  font-weight: 300;
+}
+
+.header .ais-SearchBox {
+  height: 64px;
+  width: 740px;
+}
+
+.header .ais-SearchBox .ais-SearchBox-input {
+  height: 64px;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 4px 48px 0 64px;
+  font-family: Hind, sans-serif;
+  box-shadow: 0 4px 48px rgba(0, 0, 0, 0.2);
+}
+
+.header .ais-SearchBox-submit {
+  width: 64px;
+  padding: 0 1rem 0 2rem;
+}
+
+.ais-SearchBox-form {
+  position: relative;
+}
+
+.ais-SearchBox-input {
+  -ms-appearance: none;
+  appearance: none;
+  width: 100%;
+  min-height: 54px;
+  color: rgba(33, 36, 61, 0.8);
+  background-color: rgba(65, 66, 71, 0.06);
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  padding-left: 56px;
+  font-family: inherit;
+}
+
+.ais-SearchBox-input::-ms-input-placeholder,
+.ais-SearchBox-input::placeholder {
+  color: rgba(33, 36, 61, 0.24);
+  opacity: 1;
+}
+
+.ais-SearchBox-input::-moz-placeholder {
+  color: rgba(33, 36, 61, 0.24);
+}
+
+.ais-SearchBox-input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+.ais-SearchBox-input::-ms-clear {
+  display: none;
+}
+
+.ais-SearchBox-input::clear {
+  display: none;
+}
+
+.ais-SearchBox-submit {
+  color: #e2a400;
+  left: 0;
+}
+
+.ais-SearchBox-reset,
+.ais-SearchBox-loadingIndicator,
+.ais-SearchBox-submit {
+  -ms-appearance: none;
+  appearance: none;
+  width: 48px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.ais-SearchBox-reset,
+.ais-SearchBox-loadingIndicator {
+  right: 0;
+}
+
+.ais-SearchBox-reset[hidden],
+.ais-SearchBox-loadingIndicator[hidden] {
+  display: none;
+}
+
+.ais-SearchBox-resetIcon {
+  height: 10px;
+  width: 10px;
+}
+
+.ais-RefinementList .ais-SearchBox-input {
+  padding-top: 2px;
+  font-family: Hind, sans-serif;
+}

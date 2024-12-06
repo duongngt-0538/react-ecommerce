@@ -1,0 +1,46 @@
+.container-body .ais-Panel {
+  border-top: 1px solid #ebecf3;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.ais-Panel-header {
+  font-family: Hind, sans-serif;
+}
+
+.ais-Panel-header {
+  color: #21243d;
+  letter-spacing: .08rem;
+  text-transform: uppercase;
+  border: none;
+  padding-bottom: 1rem;
+  font-size: .678rem;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.ais-HierarchicalMenu-list {
+  font-weight: 400;
+}
+
+.ais-HierarchicalMenu-link {
+  cursor: pointer;
+}
+
+.ais-HierarchicalMenu-link:before {
+  content: url(../../../assets/arrow.svg);
+  height: 8px;
+  width: 8px;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+  display: flex;
+}
+
+.ais-HierarchicalMenu-item--selected .ais-HierarchicalMenu-link:before {
+  transform: rotate(180deg);
+}
+
+.ais-HierarchicalMenu-list .ais-HierarchicalMenu-list {
+  margin-left: 1em;
+}

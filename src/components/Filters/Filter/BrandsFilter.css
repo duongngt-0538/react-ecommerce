@@ -1,0 +1,32 @@
+.ais-RefinementList .ais-SearchBox-form {
+  margin-bottom: 1rem;
+}
+
+.ais-SearchBox-form {
+  position: relative;
+}
+
+.ais-RefinementList .ais-SearchBox-input {
+  padding-top: 2px;
+  font-family: Hind, sans-serif;
+}
+
+.ais-RefinementList .ais-SearchBox-input {
+  color: rgba(33, 36, 61, .8);
+  min-height: 40px;
+  border-radius: 3px;
+  padding: 0 44px;
+  font-size: .8rem;
+}
+
+.ais-RefinementList-checkbox {
+  -ms-appearance: none;
+  appearance: none;
+  height: 1rem;
+  width: 1rem;
+  background-color: rgba(65, 66, 71, .08);
+  border: none;
+  border-radius: 2px;
+  margin: 0 1rem 0 0;
+  position: relative;
+}

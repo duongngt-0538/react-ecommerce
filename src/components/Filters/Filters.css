@@ -1,0 +1,18 @@
+.container-filters {
+  max-width: 260px;
+  flex: 1;
+  margin-right: 60px;
+}
+
+.clear-filters {
+  align-items: center;
+  display: flex;
+}
+
+.clear-filters svg {
+  margin-right: 8px;
+}
+
+.ais-ClearRefinements, .ais-ClearRefinements-button {
+  color: rgba(33, 36, 61, .7);
+}

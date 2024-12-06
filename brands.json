@@ -1,0 +1,2724 @@
+{
+  "brands": [
+    {
+      "name": "Pogoplug",
+      "count": 3
+    },
+    {
+      "name": "360fly",
+      "count": 1
+    },
+    {
+      "name": "3DR",
+      "count": 4
+    },
+    {
+      "name": "3M",
+      "count": 10
+    },
+    {
+      "name": "72-9301",
+      "count": 1
+    },
+    {
+      "name": "Acer",
+      "count": 23
+    },
+    {
+      "name": "Acme Made",
+      "count": 2
+    },
+    {
+      "name": "Acoustic Research",
+      "count": 2
+    },
+    {
+      "name": "Action Sport Drives",
+      "count": 1
+    },
+    {
+      "name": "Actiontec",
+      "count": 6
+    },
+    {
+      "name": "Activision",
+      "count": 19
+    },
+    {
+      "name": "Adesso",
+      "count": 1
+    },
+    {
+      "name": "adidas",
+      "count": 4
+    },
+    {
+      "name": "ADOPTED",
+      "count": 22
+    },
+    {
+      "name": "AirPort",
+      "count": 2
+    },
+    {
+      "name": "Alen",
+      "count": 2
+    },
+    {
+      "name": "Alienware",
+      "count": 2
+    },
+    {
+      "name": "Alpine",
+      "count": 17
+    },
+    {
+      "name": "Altec Lansing",
+      "count": 14
+    },
+    {
+      "name": "Altra Furniture",
+      "count": 2
+    },
+    {
+      "name": "Aluratek",
+      "count": 6
+    },
+    {
+      "name": "Amana",
+      "count": 13
+    },
+    {
+      "name": "Amazon",
+      "count": 38
+    },
+    {
+      "name": "AMC Theatres",
+      "count": 2
+    },
+    {
+      "name": "American Tourister",
+      "count": 1
+    },
+    {
+      "name": "Americana by Elite",
+      "count": 1
+    },
+    {
+      "name": "Amped Wireless",
+      "count": 8
+    },
+    {
+      "name": "Andis",
+      "count": 4
+    },
+    {
+      "name": "Anki",
+      "count": 1
+    },
+    {
+      "name": "Anna Sui",
+      "count": 15
+    },
+    {
+      "name": "Antec",
+      "count": 5
+    },
+    {
+      "name": "Antennas Direct",
+      "count": 8
+    },
+    {
+      "name": "Antennaworks",
+      "count": 1
+    },
+    {
+      "name": "AOC",
+      "count": 8
+    },
+    {
+      "name": "APC",
+      "count": 8
+    },
+    {
+      "name": "Apple",
+      "count": 386
+    },
+    {
+      "name": "Applebee's",
+      "count": 2
+    },
+    {
+      "name": "Apple\u00ae",
+      "count": 9
+    },
+    {
+      "name": "Applica",
+      "count": 2
+    },
+    {
+      "name": "Apricorn",
+      "count": 2
+    },
+    {
+      "name": "Archer",
+      "count": 1
+    },
+    {
+      "name": "Arkon",
+      "count": 2
+    },
+    {
+      "name": "Arm & Hammer",
+      "count": 3
+    },
+    {
+      "name": "Armpocket",
+      "count": 2
+    },
+    {
+      "name": "Aroma",
+      "count": 1
+    },
+    {
+      "name": "Ashlin",
+      "count": 3
+    },
+    {
+      "name": "Ubisoft",
+      "count": 12
+    },
+    {
+      "name": "Astro Gaming",
+      "count": 1
+    },
+    {
+      "name": "Asus",
+      "count": 67
+    },
+    {
+      "name": "AT&T",
+      "count": 20
+    },
+    {
+      "name": "AT&T GoPhone",
+      "count": 15
+    },
+    {
+      "name": "Atlantic",
+      "count": 13
+    },
+    {
+      "name": "Atrend",
+      "count": 1
+    },
+    {
+      "name": "Audio-Technica",
+      "count": 2
+    },
+    {
+      "name": "AudioQuest",
+      "count": 52
+    },
+    {
+      "name": "Audiovox",
+      "count": 6
+    },
+    {
+      "name": "August",
+      "count": 4
+    },
+    {
+      "name": "Avanti",
+      "count": 3
+    },
+    {
+      "name": "Axxess",
+      "count": 10
+    },
+    {
+      "name": "AXXESS",
+      "count": 1
+    },
+    {
+      "name": "AZIO",
+      "count": 1
+    },
+    {
+      "name": "BACtrack",
+      "count": 5
+    },
+    {
+      "name": "Ballistic",
+      "count": 30
+    },
+    {
+      "name": "Barska",
+      "count": 4
+    },
+    {
+      "name": "Basis",
+      "count": 2
+    },
+    {
+      "name": "EA",
+      "count": 7
+    },
+    {
+      "name": "BDI",
+      "count": 2
+    },
+    {
+      "name": "Beats by Dr. Dre",
+      "count": 67
+    },
+    {
+      "name": "Behringer",
+      "count": 2
+    },
+    {
+      "name": "Belkin",
+      "count": 90
+    },
+    {
+      "name": "Bell'O",
+      "count": 12
+    },
+    {
+      "name": "Bella",
+      "count": 7
+    },
+    {
+      "name": "Beltronics",
+      "count": 2
+    },
+    {
+      "name": "bem wireless",
+      "count": 1
+    },
+    {
+      "name": "BenQ",
+      "count": 7
+    },
+    {
+      "name": "Best Buy",
+      "count": 1
+    },
+    {
+      "name": "Best Buy Exclusive",
+      "count": 4
+    },
+    {
+      "name": "Best Buy GC",
+      "count": 58
+    },
+    {
+      "name": "Better Chef",
+      "count": 7
+    },
+    {
+      "name": "BIC America",
+      "count": 1
+    },
+    {
+      "name": "Big Hero 6",
+      "count": 1
+    },
+    {
+      "name": "Bionaire",
+      "count": 2
+    },
+    {
+      "name": "BISSELL",
+      "count": 25
+    },
+    {
+      "name": "Black & Decker",
+      "count": 9
+    },
+    {
+      "name": "Black Series",
+      "count": 1
+    },
+    {
+      "name": "BlackBerry",
+      "count": 1
+    },
+    {
+      "name": "BlackRapid",
+      "count": 4
+    },
+    {
+      "name": "Blast Motion",
+      "count": 2
+    },
+    {
+      "name": "Blendtec",
+      "count": 1
+    },
+    {
+      "name": "Blizzard",
+      "count": 1
+    },
+    {
+      "name": "Blossom",
+      "count": 1
+    },
+    {
+      "name": "Blu",
+      "count": 12
+    },
+    {
+      "name": "Blue Crane Digital",
+      "count": 5
+    },
+    {
+      "name": "Blue Hat Toy Company",
+      "count": 1
+    },
+    {
+      "name": "Blue Microphones",
+      "count": 4
+    },
+    {
+      "name": "Blueair",
+      "count": 2
+    },
+    {
+      "name": "blueLounge",
+      "count": 6
+    },
+    {
+      "name": "BlueParrott",
+      "count": 2
+    },
+    {
+      "name": "Blumoo",
+      "count": 1
+    },
+    {
+      "name": "bobble",
+      "count": 8
+    },
+    {
+      "name": "Bobble",
+      "count": 4
+    },
+    {
+      "name": "Boise",
+      "count": 1
+    },
+    {
+      "name": "Boost Mobile",
+      "count": 17
+    },
+    {
+      "name": "Bosch",
+      "count": 38
+    },
+    {
+      "name": "Bose",
+      "count": 2
+    },
+    {
+      "name": "Bose\u00ae",
+      "count": 102
+    },
+    {
+      "name": "Boss",
+      "count": 1
+    },
+    {
+      "name": "Bower",
+      "count": 22
+    },
+    {
+      "name": "Bowers & Wilkins",
+      "count": 30
+    },
+    {
+      "name": "Bracketron",
+      "count": 15
+    },
+    {
+      "name": "Braun",
+      "count": 10
+    },
+    {
+      "name": "BRAVEN",
+      "count": 9
+    },
+    {
+      "name": "Breathometer",
+      "count": 1
+    },
+    {
+      "name": "Brenthaven",
+      "count": 5
+    },
+    {
+      "name": "Brentwood",
+      "count": 4
+    },
+    {
+      "name": "Breville",
+      "count": 11
+    },
+    {
+      "name": "Broan",
+      "count": 5
+    },
+    {
+      "name": "Brother",
+      "count": 78
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "count": 1
+    },
+    {
+      "name": "BUNN",
+      "count": 2
+    },
+    {
+      "name": "Burger King",
+      "count": 1
+    },
+    {
+      "name": "Infinity Ward",
+      "count": 4
+    },
+    {
+      "name": "CamelBak",
+      "count": 1
+    },
+    {
+      "name": "Canary",
+      "count": 3
+    },
+    {
+      "name": "Canon",
+      "count": 177
+    },
+    {
+      "name": "CapBuckle",
+      "count": 1
+    },
+    {
+      "name": "Capresso",
+      "count": 2
+    },
+    {
+      "name": "Capsa",
+      "count": 1
+    },
+    {
+      "name": "Cardinal",
+      "count": 1
+    },
+    {
+      "name": "Case Logic",
+      "count": 38
+    },
+    {
+      "name": "Case-Mate",
+      "count": 45
+    },
+    {
+      "name": "Casio",
+      "count": 11
+    },
+    {
+      "name": "Catalyst",
+      "count": 1
+    },
+    {
+      "name": "CE",
+      "count": 1
+    },
+    {
+      "name": "Celestron",
+      "count": 5
+    },
+    {
+      "name": "Celluon",
+      "count": 1
+    },
+    {
+      "name": "CenturyLink",
+      "count": 1
+    },
+    {
+      "name": "Chamberlain",
+      "count": 3
+    },
+    {
+      "name": "Channel Master",
+      "count": 6
+    },
+    {
+      "name": "Char-Broil",
+      "count": 11
+    },
+    {
+      "name": "Char-Broil TRU-Infrared",
+      "count": 1
+    },
+    {
+      "name": "Char-Griller",
+      "count": 1
+    },
+    {
+      "name": "Chef Buddy",
+      "count": 6
+    },
+    {
+      "name": "Chef's Choice",
+      "count": 1
+    },
+    {
+      "name": "CHI",
+      "count": 2
+    },
+    {
+      "name": "Nintendo",
+      "count": 10
+    },
+    {
+      "name": "Chief",
+      "count": 3
+    },
+    {
+      "name": "Chili's",
+      "count": 2
+    },
+    {
+      "name": "Chipotle",
+      "count": 1
+    },
+    {
+      "name": "Christian Siriano",
+      "count": 11
+    },
+    {
+      "name": "ClamCase",
+      "count": 4
+    },
+    {
+      "name": "Clockwork Synergy",
+      "count": 6
+    },
+    {
+      "name": "Cobra",
+      "count": 8
+    },
+    {
+      "name": "Coffee People",
+      "count": 1
+    },
+    {
+      "name": "Cole Haan",
+      "count": 15
+    },
+    {
+      "name": "CompuStar",
+      "count": 3
+    },
+    {
+      "name": "Conair",
+      "count": 50
+    },
+    {
+      "name": "Concept One",
+      "count": 2
+    },
+    {
+      "name": "Contigo",
+      "count": 25
+    },
+    {
+      "name": "Cooler Master",
+      "count": 3
+    },
+    {
+      "name": "CorLiving",
+      "count": 6
+    },
+    {
+      "name": "Corsair",
+      "count": 20
+    },
+    {
+      "name": "Cortelco",
+      "count": 1
+    },
+    {
+      "name": "Craig",
+      "count": 3
+    },
+    {
+      "name": "Crane",
+      "count": 22
+    },
+    {
+      "name": "Crayola",
+      "count": 1
+    },
+    {
+      "name": "Creative Essentials",
+      "count": 2
+    },
+    {
+      "name": "CreoPop",
+      "count": 1
+    },
+    {
+      "name": "Crock-Pot",
+      "count": 8
+    },
+    {
+      "name": "Crosley",
+      "count": 6
+    },
+    {
+      "name": "Cuisinart",
+      "count": 54
+    },
+    {
+      "name": "CyberPower",
+      "count": 10
+    },
+    {
+      "name": "CyberPowerPC",
+      "count": 12
+    },
+    {
+      "name": "CybertronPC",
+      "count": 4
+    },
+    {
+      "name": "Cynthia Vincent",
+      "count": 11
+    },
+    {
+      "name": "D-Link",
+      "count": 9
+    },
+    {
+      "name": "Dairy Queen",
+      "count": 1
+    },
+    {
+      "name": "Danby",
+      "count": 11
+    },
+    {
+      "name": "Darden Restaurants",
+      "count": 2
+    },
+    {
+      "name": "Das Keyboard",
+      "count": 1
+    },
+    {
+      "name": "Dash",
+      "count": 2
+    },
+    {
+      "name": "Dash go",
+      "count": 1
+    },
+    {
+      "name": "Defender",
+      "count": 1
+    },
+    {
+      "name": "Definitive Technology",
+      "count": 23
+    },
+    {
+      "name": "Dell",
+      "count": 39
+    },
+    {
+      "name": "DeLonghi",
+      "count": 9
+    },
+    {
+      "name": "Delta Cycle",
+      "count": 2
+    },
+    {
+      "name": "DENAQ",
+      "count": 8
+    },
+    {
+      "name": "Denon",
+      "count": 14
+    },
+    {
+      "name": "Diamond",
+      "count": 2
+    },
+    {
+      "name": "Diamond Multimedia",
+      "count": 1
+    },
+    {
+      "name": "DigiLand",
+      "count": 3
+    },
+    {
+      "name": "DigiPower",
+      "count": 45
+    },
+    {
+      "name": "Digipower",
+      "count": 2
+    },
+    {
+      "name": "Digital Innovations",
+      "count": 3
+    },
+    {
+      "name": "Digital Treasures",
+      "count": 4
+    },
+    {
+      "name": "Directed Electronics",
+      "count": 5
+    },
+    {
+      "name": "DIRECTV",
+      "count": 2
+    },
+    {
+      "name": "Dirt Devil",
+      "count": 4
+    },
+    {
+      "name": "Discovery Kids",
+      "count": 3
+    },
+    {
+      "name": "Disney",
+      "count": 18
+    },
+    {
+      "name": "Disney Interactive Studios",
+      "count": 4
+    },
+    {
+      "name": "Distil Union",
+      "count": 1
+    },
+    {
+      "name": "Maximum Games",
+      "count": 2
+    },
+    {
+      "name": "DJI",
+      "count": 7
+    },
+    {
+      "name": "Dotz",
+      "count": 2
+    },
+    {
+      "name": "Dr. Scholl's",
+      "count": 1
+    },
+    {
+      "name": "Dunkin' Donuts",
+      "count": 2
+    },
+    {
+      "name": "Duracell",
+      "count": 21
+    },
+    {
+      "name": "Dynex",
+      "count": 1
+    },
+    {
+      "name": "Dynex\u2122",
+      "count": 214
+    },
+    {
+      "name": "Dyson",
+      "count": 30
+    },
+    {
+      "name": "Earin",
+      "count": 1
+    },
+    {
+      "name": "EatSmart",
+      "count": 6
+    },
+    {
+      "name": "eBay",
+      "count": 1
+    },
+    {
+      "name": "Eclipse",
+      "count": 5
+    },
+    {
+      "name": "ecobee",
+      "count": 2
+    },
+    {
+      "name": "Ecosential",
+      "count": 3
+    },
+    {
+      "name": "Ecosential by Smart Choice",
+      "count": 1
+    },
+    {
+      "name": "ECOVACS Robotics",
+      "count": 1
+    },
+    {
+      "name": "ECOXGEAR",
+      "count": 1
+    },
+    {
+      "name": "Eddie Bauer",
+      "count": 2
+    },
+    {
+      "name": "Eden",
+      "count": 1
+    },
+    {
+      "name": "eKids",
+      "count": 2
+    },
+    {
+      "name": "Electrolux",
+      "count": 10
+    },
+    {
+      "name": "Elenco",
+      "count": 1
+    },
+    {
+      "name": "Elite",
+      "count": 5
+    },
+    {
+      "name": "Elite Cuisine",
+      "count": 5
+    },
+    {
+      "name": "Elite Gourmet",
+      "count": 1
+    },
+    {
+      "name": "Elite Platinum",
+      "count": 9
+    },
+    {
+      "name": "Elite Screens",
+      "count": 11
+    },
+    {
+      "name": "Ematic",
+      "count": 1
+    },
+    {
+      "name": "EMTEC",
+      "count": 14
+    },
+    {
+      "name": "Emtec",
+      "count": 4
+    },
+    {
+      "name": "Energizer",
+      "count": 60
+    },
+    {
+      "name": "Energy",
+      "count": 6
+    },
+    {
+      "name": "EnerPlex",
+      "count": 1
+    },
+    {
+      "name": "Epiphone",
+      "count": 1
+    },
+    {
+      "name": "Epson",
+      "count": 107
+    },
+    {
+      "name": "Equator",
+      "count": 1
+    },
+    {
+      "name": "Escort",
+      "count": 4
+    },
+    {
+      "name": "eskuch\u00e9",
+      "count": 2
+    },
+    {
+      "name": "Eton",
+      "count": 3
+    },
+    {
+      "name": "Etymotic",
+      "count": 1
+    },
+    {
+      "name": "Eureka",
+      "count": 7
+    },
+    {
+      "name": "Euro Cuisine",
+      "count": 2
+    },
+    {
+      "name": "Eveready",
+      "count": 2
+    },
+    {
+      "name": "EVGA",
+      "count": 8
+    },
+    {
+      "name": "2K",
+      "count": 10
+    },
+    {
+      "name": "Evutec",
+      "count": 6
+    },
+    {
+      "name": "Excalibur",
+      "count": 1
+    },
+    {
+      "name": "Exclusive",
+      "count": 1
+    },
+    {
+      "name": "ExpoDisc",
+      "count": 1
+    },
+    {
+      "name": "Eye-Fi",
+      "count": 3
+    },
+    {
+      "name": "EZ Dupe",
+      "count": 1
+    },
+    {
+      "name": "Bethesda Softworks",
+      "count": 1
+    },
+    {
+      "name": "Fandango",
+      "count": 2
+    },
+    {
+      "name": "Fellowes",
+      "count": 5
+    },
+    {
+      "name": "Fierce Audio",
+      "count": 1
+    },
+    {
+      "name": "FiftyThree",
+      "count": 3
+    },
+    {
+      "name": "Fire Sense",
+      "count": 2
+    },
+    {
+      "name": "First Alert",
+      "count": 1
+    },
+    {
+      "name": "Fitbit",
+      "count": 49
+    },
+    {
+      "name": "FixMeStick",
+      "count": 1
+    },
+    {
+      "name": "Flashlogic",
+      "count": 1
+    },
+    {
+      "name": "FLIR",
+      "count": 1
+    },
+    {
+      "name": "FoodSaver",
+      "count": 5
+    },
+    {
+      "name": "Microsoft",
+      "count": 111
+    },
+    {
+      "name": "Franklin",
+      "count": 3
+    },
+    {
+      "name": "FRANKLIN ELECTRONIC PUB",
+      "count": 1
+    },
+    {
+      "name": "French Bull",
+      "count": 17
+    },
+    {
+      "name": "FreshSaver",
+      "count": 1
+    },
+    {
+      "name": "Frigidaire",
+      "count": 116
+    },
+    {
+      "name": "FUGOO",
+      "count": 5
+    },
+    {
+      "name": "Fujifilm",
+      "count": 25
+    },
+    {
+      "name": "Fujitsu",
+      "count": 3
+    },
+    {
+      "name": "Funko",
+      "count": 1
+    },
+    {
+      "name": "G-Paws",
+      "count": 1
+    },
+    {
+      "name": "G-Technology",
+      "count": 3
+    },
+    {
+      "name": "Gameband",
+      "count": 1
+    },
+    {
+      "name": "Garmin",
+      "count": 70
+    },
+    {
+      "name": "Gateway",
+      "count": 1
+    },
+    {
+      "name": "GE",
+      "count": 93
+    },
+    {
+      "name": "GE Profile",
+      "count": 1
+    },
+    {
+      "name": "George Foreman",
+      "count": 3
+    },
+    {
+      "name": "GermGuardian",
+      "count": 5
+    },
+    {
+      "name": "GHS",
+      "count": 1
+    },
+    {
+      "name": "Gigaset",
+      "count": 1
+    },
+    {
+      "name": "Global Direct",
+      "count": 1
+    },
+    {
+      "name": "GolfBuddy",
+      "count": 1
+    },
+    {
+      "name": "Golla",
+      "count": 3
+    },
+    {
+      "name": "Goodies",
+      "count": 3
+    },
+    {
+      "name": "Google",
+      "count": 7
+    },
+    {
+      "name": "GoPole",
+      "count": 3
+    },
+    {
+      "name": "GoPro",
+      "count": 48
+    },
+    {
+      "name": "GPX",
+      "count": 1
+    },
+    {
+      "name": "Grace Digital",
+      "count": 2
+    },
+    {
+      "name": "Great Northern Popcorn",
+      "count": 3
+    },
+    {
+      "name": "Griffin Technology",
+      "count": 80
+    },
+    {
+      "name": "Guardzilla",
+      "count": 2
+    },
+    {
+      "name": "GUNNAR Optiks",
+      "count": 1
+    },
+    {
+      "name": "H2O",
+      "count": 4
+    },
+    {
+      "name": "Haier",
+      "count": 3
+    },
+    {
+      "name": "Hal Leonard",
+      "count": 2
+    },
+    {
+      "name": "Microsoft Studios",
+      "count": 1
+    },
+    {
+      "name": "Hamilton Beach",
+      "count": 71
+    },
+    {
+      "name": "Hammermill",
+      "count": 3
+    },
+    {
+      "name": "Harman Kardon",
+      "count": 5
+    },
+    {
+      "name": "Hasbro",
+      "count": 6
+    },
+    {
+      "name": "UBI SOFT",
+      "count": 2
+    },
+    {
+      "name": "Hauppauge",
+      "count": 3
+    },
+    {
+      "name": "Healthy Foods",
+      "count": 1
+    },
+    {
+      "name": "Hello Kitty",
+      "count": 2
+    },
+    {
+      "name": "HGST",
+      "count": 1
+    },
+    {
+      "name": "High Sierra",
+      "count": 2
+    },
+    {
+      "name": "Hipstreet",
+      "count": 2
+    },
+    {
+      "name": "Hisense",
+      "count": 2
+    },
+    {
+      "name": "HMDX",
+      "count": 6
+    },
+    {
+      "name": "Holmes",
+      "count": 4
+    },
+    {
+      "name": "HoMedics",
+      "count": 4
+    },
+    {
+      "name": "Honeywell",
+      "count": 32
+    },
+    {
+      "name": "Hoover",
+      "count": 28
+    },
+    {
+      "name": "Hotpoint",
+      "count": 2
+    },
+    {
+      "name": "House of Harlow",
+      "count": 2
+    },
+    {
+      "name": "House of Marley",
+      "count": 1
+    },
+    {
+      "name": "Hoya",
+      "count": 17
+    },
+    {
+      "name": "HP",
+      "count": 259
+    },
+    {
+      "name": "HTC",
+      "count": 18
+    },
+    {
+      "name": "Huawei",
+      "count": 7
+    },
+    {
+      "name": "Hulu",
+      "count": 2
+    },
+    {
+      "name": "HyperX",
+      "count": 1
+    },
+    {
+      "name": "iBattz",
+      "count": 2
+    },
+    {
+      "name": "iBUYPOWER",
+      "count": 9
+    },
+    {
+      "name": "iCoffee",
+      "count": 1
+    },
+    {
+      "name": "iDatalink",
+      "count": 1
+    },
+    {
+      "name": "iFrogz",
+      "count": 5
+    },
+    {
+      "name": "Igloo",
+      "count": 5
+    },
+    {
+      "name": "iHealth",
+      "count": 6
+    },
+    {
+      "name": "iHome",
+      "count": 18
+    },
+    {
+      "name": "IK Multimedia",
+      "count": 1
+    },
+    {
+      "name": "iLive",
+      "count": 7
+    },
+    {
+      "name": "Impress",
+      "count": 1
+    },
+    {
+      "name": "Incase",
+      "count": 40
+    },
+    {
+      "name": "Incipio",
+      "count": 18
+    },
+    {
+      "name": "Infinity",
+      "count": 1
+    },
+    {
+      "name": "Innovative Technology",
+      "count": 4
+    },
+    {
+      "name": "Innovelis",
+      "count": 2
+    },
+    {
+      "name": "Insignia",
+      "count": 31
+    },
+    {
+      "name": "Insignia\u2122",
+      "count": 551
+    },
+    {
+      "name": "Intel",
+      "count": 1
+    },
+    {
+      "name": "Intel\u00ae",
+      "count": 5
+    },
+    {
+      "name": "IOGEAR",
+      "count": 5
+    },
+    {
+      "name": "iOgrapher",
+      "count": 3
+    },
+    {
+      "name": "iON",
+      "count": 1
+    },
+    {
+      "name": "iON America",
+      "count": 1
+    },
+    {
+      "name": "Ion Audio",
+      "count": 8
+    },
+    {
+      "name": "Ionic Pro",
+      "count": 2
+    },
+    {
+      "name": "iOttie",
+      "count": 2
+    },
+    {
+      "name": "Iris",
+      "count": 1
+    },
+    {
+      "name": "iRobot",
+      "count": 11
+    },
+    {
+      "name": "Isaac Mizrahi",
+      "count": 4
+    },
+    {
+      "name": "Isaac Mizrahi New York",
+      "count": 62
+    },
+    {
+      "name": "iSimple",
+      "count": 11
+    },
+    {
+      "name": "iSmartAlarm",
+      "count": 4
+    },
+    {
+      "name": "iTouchless",
+      "count": 2
+    },
+    {
+      "name": "j5 create",
+      "count": 14
+    },
+    {
+      "name": "Jabra",
+      "count": 12
+    },
+    {
+      "name": "JACK SPADE",
+      "count": 9
+    },
+    {
+      "name": "Jagex Games Studio",
+      "count": 1
+    },
+    {
+      "name": "Jam",
+      "count": 26
+    },
+    {
+      "name": "Jamo",
+      "count": 2
+    },
+    {
+      "name": "Jawbone",
+      "count": 15
+    },
+    {
+      "name": "JayBird",
+      "count": 1
+    },
+    {
+      "name": "Jaybird",
+      "count": 6
+    },
+    {
+      "name": "JBL",
+      "count": 37
+    },
+    {
+      "name": "Jensen",
+      "count": 29
+    },
+    {
+      "name": "Jitterbug",
+      "count": 1
+    },
+    {
+      "name": "JOBY",
+      "count": 5
+    },
+    {
+      "name": "Joby",
+      "count": 5
+    },
+    {
+      "name": "John Frieda",
+      "count": 2
+    },
+    {
+      "name": "JVC",
+      "count": 34
+    },
+    {
+      "name": "K'NEX",
+      "count": 2
+    },
+    {
+      "name": "Kalorik",
+      "count": 1
+    },
+    {
+      "name": "Kanto",
+      "count": 2
+    },
+    {
+      "name": "Karaoke USA",
+      "count": 2
+    },
+    {
+      "name": "kate spade new york",
+      "count": 103
+    },
+    {
+      "name": "Kensington",
+      "count": 1
+    },
+    {
+      "name": "Kent Displays",
+      "count": 1
+    },
+    {
+      "name": "Kenwood",
+      "count": 29
+    },
+    {
+      "name": "Keurig",
+      "count": 72
+    },
+    {
+      "name": "Kicker",
+      "count": 38
+    },
+    {
+      "name": "KIDDESIGNS",
+      "count": 3
+    },
+    {
+      "name": "KIDdesigns",
+      "count": 5
+    },
+    {
+      "name": "KingsIsle",
+      "count": 1
+    },
+    {
+      "name": "Kingston",
+      "count": 1
+    },
+    {
+      "name": "Kinsa",
+      "count": 1
+    },
+    {
+      "name": "KitchenAid",
+      "count": 90
+    },
+    {
+      "name": "Klipsch",
+      "count": 20
+    },
+    {
+      "name": "Kodak",
+      "count": 9
+    },
+    {
+      "name": "KontrolFreek",
+      "count": 1
+    },
+    {
+      "name": "Koolatron",
+      "count": 1
+    },
+    {
+      "name": "Kreisler Tech",
+      "count": 7
+    },
+    {
+      "name": "Krown",
+      "count": 1
+    },
+    {
+      "name": "Kuvings",
+      "count": 1
+    },
+    {
+      "name": "Kwikset",
+      "count": 4
+    },
+    {
+      "name": "Kyocera",
+      "count": 1
+    },
+    {
+      "name": "LaCie",
+      "count": 2
+    },
+    {
+      "name": "Laila Ali",
+      "count": 2
+    },
+    {
+      "name": "LapGear",
+      "count": 2
+    },
+    {
+      "name": "Laptop Battery Pros",
+      "count": 1
+    },
+    {
+      "name": "Lasko",
+      "count": 8
+    },
+    {
+      "name": "Lastolite",
+      "count": 1
+    },
+    {
+      "name": "Leap Motion",
+      "count": 1
+    },
+    {
+      "name": "LeapFrog",
+      "count": 26
+    },
+    {
+      "name": "Legrand",
+      "count": 1
+    },
+    {
+      "name": "Legrand/Wiremold",
+      "count": 1
+    },
+    {
+      "name": "Lenmar",
+      "count": 25
+    },
+    {
+      "name": "Lenovo",
+      "count": 67
+    },
+    {
+      "name": "Lenspen",
+      "count": 2
+    },
+    {
+      "name": "LensPen",
+      "count": 1
+    },
+    {
+      "name": "Lexmark",
+      "count": 1
+    },
+    {
+      "name": "LG",
+      "count": 217
+    },
+    {
+      "name": "Life N Soul",
+      "count": 2
+    },
+    {
+      "name": "LifeProof",
+      "count": 66
+    },
+    {
+      "name": "LIFX",
+      "count": 3
+    },
+    {
+      "name": "Line 6",
+      "count": 2
+    },
+    {
+      "name": "Linearflux",
+      "count": 2
+    },
+    {
+      "name": "Linksys",
+      "count": 15
+    },
+    {
+      "name": "Livescribe",
+      "count": 3
+    },
+    {
+      "name": "Locus H2O Wireless",
+      "count": 1
+    },
+    {
+      "name": "Logitech",
+      "count": 168
+    },
+    {
+      "name": "Lorex",
+      "count": 5
+    },
+    {
+      "name": "Lowepro",
+      "count": 45
+    },
+    {
+      "name": "LUNATIK",
+      "count": 15
+    },
+    {
+      "name": "Lyve",
+      "count": 1
+    },
+    {
+      "name": "M-Edge",
+      "count": 4
+    },
+    {
+      "name": "MacDecals",
+      "count": 6
+    },
+    {
+      "name": "Tiburon",
+      "count": 2
+    },
+    {
+      "name": "EA SPORTS",
+      "count": 13
+    },
+    {
+      "name": "Maestro",
+      "count": 7
+    },
+    {
+      "name": "Magellan",
+      "count": 2
+    },
+    {
+      "name": "Magic Bullet",
+      "count": 2
+    },
+    {
+      "name": "Magic Chef",
+      "count": 5
+    },
+    {
+      "name": "MagicJack",
+      "count": 1
+    },
+    {
+      "name": "Magnavox",
+      "count": 2
+    },
+    {
+      "name": "Manfrotto",
+      "count": 16
+    },
+    {
+      "name": "Marantz",
+      "count": 4
+    },
+    {
+      "name": "Maroo",
+      "count": 1
+    },
+    {
+      "name": "Marshall",
+      "count": 8
+    },
+    {
+      "name": "MartinLogan",
+      "count": 10
+    },
+    {
+      "name": "Marvel",
+      "count": 6
+    },
+    {
+      "name": "Mavea",
+      "count": 2
+    },
+    {
+      "name": "Maverick",
+      "count": 2
+    },
+    {
+      "name": "Maxell",
+      "count": 1
+    },
+    {
+      "name": "Melitta",
+      "count": 3
+    },
+    {
+      "name": "Memorex",
+      "count": 35
+    },
+    {
+      "name": "Metra",
+      "count": 219
+    },
+    {
+      "name": "METRA",
+      "count": 2
+    },
+    {
+      "name": "Metra Electronics",
+      "count": 3
+    },
+    {
+      "name": "METRA ELECTRONICS/MOBILE AUDIO",
+      "count": 1
+    },
+    {
+      "name": "Mind Reader",
+      "count": 2
+    },
+    {
+      "name": "Mio",
+      "count": 1
+    },
+    {
+      "name": "Mirro",
+      "count": 1
+    },
+    {
+      "name": "Misfit",
+      "count": 12
+    },
+    {
+      "name": "Mobee",
+      "count": 1
+    },
+    {
+      "name": "Mobile Edge",
+      "count": 1
+    },
+    {
+      "name": "mod.",
+      "count": 1
+    },
+    {
+      "name": "Modal",
+      "count": 121
+    },
+    {
+      "name": "Mohu",
+      "count": 4
+    },
+    {
+      "name": "Moleskine",
+      "count": 10
+    },
+    {
+      "name": "Monster",
+      "count": 50
+    },
+    {
+      "name": "Moov",
+      "count": 1
+    },
+    {
+      "name": "mophie",
+      "count": 64
+    },
+    {
+      "name": "Moshi",
+      "count": 16
+    },
+    {
+      "name": "Motorola",
+      "count": 47
+    },
+    {
+      "name": "MPOWERD",
+      "count": 1
+    },
+    {
+      "name": "Mr. Coffee",
+      "count": 13
+    },
+    {
+      "name": "MSI",
+      "count": 4
+    },
+    {
+      "name": "Muse",
+      "count": 1
+    },
+    {
+      "name": "MXL",
+      "count": 1
+    },
+    {
+      "name": "myCharge",
+      "count": 22
+    },
+    {
+      "name": "nabi",
+      "count": 7
+    },
+    {
+      "name": "NAD",
+      "count": 1
+    },
+    {
+      "name": "Nanette Lepore",
+      "count": 44
+    },
+    {
+      "name": "Narrative Clip",
+      "count": 1
+    },
+    {
+      "name": "Native Instruments",
+      "count": 1
+    },
+    {
+      "name": "Native Union",
+      "count": 22
+    },
+    {
+      "name": "Visual Concepts",
+      "count": 1
+    },
+    {
+      "name": "Neat",
+      "count": 3
+    },
+    {
+      "name": "Neato Robotics",
+      "count": 7
+    },
+    {
+      "name": "Nesco",
+      "count": 1
+    },
+    {
+      "name": "Nespresso",
+      "count": 1
+    },
+    {
+      "name": "Nest",
+      "count": 5
+    },
+    {
+      "name": "NET10",
+      "count": 12
+    },
+    {
+      "name": "Netflix",
+      "count": 3
+    },
+    {
+      "name": "NETGEAR",
+      "count": 53
+    },
+    {
+      "name": "Netgear",
+      "count": 4
+    },
+    {
+      "name": "NewAir",
+      "count": 5
+    },
+    {
+      "name": "NextGen",
+      "count": 1
+    },
+    {
+      "name": "Nifty",
+      "count": 4
+    },
+    {
+      "name": "Night Owl",
+      "count": 2
+    },
+    {
+      "name": "Nike+",
+      "count": 1
+    },
+    {
+      "name": "Nikon",
+      "count": 77
+    },
+    {
+      "name": "Niles",
+      "count": 3
+    },
+    {
+      "name": "Ninja",
+      "count": 11
+    },
+    {
+      "name": "Nomad",
+      "count": 9
+    },
+    {
+      "name": "Nomiku",
+      "count": 1
+    },
+    {
+      "name": "Nostalgia Electrics",
+      "count": 23
+    },
+    {
+      "name": "Novatel",
+      "count": 1
+    },
+    {
+      "name": "Nutek",
+      "count": 1
+    },
+    {
+      "name": "NutriBullet",
+      "count": 3
+    },
+    {
+      "name": "NVIDIA",
+      "count": 6
+    },
+    {
+      "name": "Nyko",
+      "count": 3
+    },
+    {
+      "name": "NZXT",
+      "count": 3
+    },
+    {
+      "name": "O2  Wireless",
+      "count": 1
+    },
+    {
+      "name": "Oco",
+      "count": 1
+    },
+    {
+      "name": "OGIO",
+      "count": 6
+    },
+    {
+      "name": "olloclip",
+      "count": 5
+    },
+    {
+      "name": "Olympus",
+      "count": 7
+    },
+    {
+      "name": "Omega",
+      "count": 1
+    },
+    {
+      "name": "Omron",
+      "count": 9
+    },
+    {
+      "name": "One All",
+      "count": 4
+    },
+    {
+      "name": "One For All",
+      "count": 1
+    },
+    {
+      "name": "Onkyo",
+      "count": 8
+    },
+    {
+      "name": "Ooma",
+      "count": 3
+    },
+    {
+      "name": "Oplink Connected",
+      "count": 1
+    },
+    {
+      "name": "Optimus",
+      "count": 4
+    },
+    {
+      "name": "Optoma",
+      "count": 3
+    },
+    {
+      "name": "Oral-B",
+      "count": 11
+    },
+    {
+      "name": "Oregon Scientific",
+      "count": 1
+    },
+    {
+      "name": "Oscar Schmidt",
+      "count": 1
+    },
+    {
+      "name": "OSRAM",
+      "count": 3
+    },
+    {
+      "name": "Oster",
+      "count": 26
+    },
+    {
+      "name": "OtterBox",
+      "count": 159
+    },
+    {
+      "name": "Outdoor Tech",
+      "count": 2
+    },
+    {
+      "name": "Outstanding",
+      "count": 1
+    },
+    {
+      "name": "OYO",
+      "count": 1
+    },
+    {
+      "name": "PAC",
+      "count": 6
+    },
+    {
+      "name": "Pace",
+      "count": 1
+    },
+    {
+      "name": "PackIt",
+      "count": 4
+    },
+    {
+      "name": "Panamax",
+      "count": 13
+    },
+    {
+      "name": "Panasonic",
+      "count": 46
+    },
+    {
+      "name": "Pandora",
+      "count": 2
+    },
+    {
+      "name": "Pangea Brands",
+      "count": 1
+    },
+    {
+      "name": "Paris Dotz",
+      "count": 1
+    },
+    {
+      "name": "Parrot",
+      "count": 8
+    },
+    {
+      "name": "Party Bullet",
+      "count": 1
+    },
+    {
+      "name": "PDP",
+      "count": 4
+    },
+    {
+      "name": "Pebble",
+      "count": 12
+    },
+    {
+      "name": "Peerless",
+      "count": 15
+    },
+    {
+      "name": "Peerless-AV",
+      "count": 2
+    },
+    {
+      "name": "Pelican",
+      "count": 4
+    },
+    {
+      "name": "PenPower",
+      "count": 1
+    },
+    {
+      "name": "Pentel",
+      "count": 5
+    },
+    {
+      "name": "Peripheral",
+      "count": 1
+    },
+    {
+      "name": "Phiaton",
+      "count": 1
+    },
+    {
+      "name": "Philips",
+      "count": 23
+    },
+    {
+      "name": "Philips Norelco",
+      "count": 35
+    },
+    {
+      "name": "Philips Sonicare",
+      "count": 28
+    },
+    {
+      "name": "Phillips",
+      "count": 1
+    },
+    {
+      "name": "Pinnacle",
+      "count": 3
+    },
+    {
+      "name": "Pioneer",
+      "count": 41
+    },
+    {
+      "name": "Pioneer Elite",
+      "count": 7
+    },
+    {
+      "name": "Pivothead",
+      "count": 1
+    },
+    {
+      "name": "Disney Interactive",
+      "count": 1
+    },
+    {
+      "name": "PKG",
+      "count": 6
+    },
+    {
+      "name": "Plantronics",
+      "count": 16
+    },
+    {
+      "name": "Platinum",
+      "count": 131
+    },
+    {
+      "name": "Platinum Series",
+      "count": 10
+    },
+    {
+      "name": "PNY",
+      "count": 110
+    },
+    {
+      "name": "Polar",
+      "count": 16
+    },
+    {
+      "name": "Polaroid",
+      "count": 5
+    },
+    {
+      "name": "Polk Audio",
+      "count": 17
+    },
+    {
+      "name": "Polycom",
+      "count": 1
+    },
+    {
+      "name": "Power A",
+      "count": 3
+    },
+    {
+      "name": "Power Acoustik",
+      "count": 5
+    },
+    {
+      "name": "PowerA",
+      "count": 1
+    },
+    {
+      "name": "PowerBridge",
+      "count": 1
+    },
+    {
+      "name": "Premier",
+      "count": 1
+    },
+    {
+      "name": "Prepac",
+      "count": 7
+    },
+    {
+      "name": "PREPAC",
+      "count": 2
+    },
+    {
+      "name": "Prestige",
+      "count": 1
+    },
+    {
+      "name": "Prima Games",
+      "count": 1
+    },
+    {
+      "name": "Primo Water",
+      "count": 1
+    },
+    {
+      "name": "Proctor Silex",
+      "count": 5
+    },
+    {
+      "name": "Projecta",
+      "count": 4
+    },
+    {
+      "name": "Protocol",
+      "count": 12
+    },
+    {
+      "name": "PT",
+      "count": 5
+    },
+    {
+      "name": "PureGuardian",
+      "count": 3
+    },
+    {
+      "name": "Pursonic",
+      "count": 1
+    },
+    {
+      "name": "QardioArm",
+      "count": 1
+    },
+    {
+      "name": "Rachael Ray",
+      "count": 1
+    },
+    {
+      "name": "Rand McNally",
+      "count": 1
+    },
+    {
+      "name": "Rapid Ramen",
+      "count": 2
+    },
+    {
+      "name": "Ravel",
+      "count": 1
+    },
+    {
+      "name": "Rayovac",
+      "count": 30
+    },
+    {
+      "name": "Razer",
+      "count": 28
+    },
+    {
+      "name": "Razor",
+      "count": 7
+    },
+    {
+      "name": "RCA",
+      "count": 16
+    },
+    {
+      "name": "Reach Case",
+      "count": 3
+    },
+    {
+      "name": "ReachAntenna",
+      "count": 5
+    },
+    {
+      "name": "Recoton",
+      "count": 1
+    },
+    {
+      "name": "Rockstar Games",
+      "count": 1
+    },
+    {
+      "name": "Refuel",
+      "count": 2
+    },
+    {
+      "name": "Regal Entertainment Group",
+      "count": 1
+    },
+    {
+      "name": "Remington",
+      "count": 10
+    },
+    {
+      "name": "ReTrak",
+      "count": 12
+    },
+    {
+      "name": "REV",
+      "count": 5
+    },
+    {
+      "name": "Reveal",
+      "count": 4
+    },
+    {
+      "name": "Revlon",
+      "count": 1
+    },
+    {
+      "name": "Ring",
+      "count": 5
+    },
+    {
+      "name": "Riot Games",
+      "count": 1
+    },
+    {
+      "name": "Rival",
+      "count": 2
+    },
+    {
+      "name": "Roblox",
+      "count": 1
+    },
+    {
+      "name": "ROCCAT",
+      "count": 3
+    },
+    {
+      "name": "Rocketfish\u2122",
+      "count": 83
+    },
+    {
+      "name": "Rocketfish\u2122 Mobile",
+      "count": 9
+    },
+    {
+      "name": "RODE",
+      "count": 3
+    },
+    {
+      "name": "Rogue Photographic Design",
+      "count": 2
+    },
+    {
+      "name": "Roku",
+      "count": 6
+    },
+    {
+      "name": "Rowenta",
+      "count": 3
+    },
+    {
+      "name": "Royal Sovereign",
+      "count": 4
+    },
+    {
+      "name": "Rug Doctor",
+      "count": 4
+    },
+    {
+      "name": "Sabrent",
+      "count": 1
+    },
+    {
+      "name": "Safety+PLUS",
+      "count": 1
+    },
+    {
+      "name": "Sakar",
+      "count": 1
+    },
+    {
+      "name": "Salamander Designs",
+      "count": 1
+    },
+    {
+      "name": "Samson",
+      "count": 2
+    },
+    {
+      "name": "Samsonite",
+      "count": 9
+    },
+    {
+      "name": "Samsung",
+      "count": 511
+    },
+    {
+      "name": "SanDisk",
+      "count": 92
+    },
+    {
+      "name": "Sanus",
+      "count": 28
+    },
+    {
+      "name": "Sauder",
+      "count": 3
+    },
+    {
+      "name": "Savvi",
+      "count": 2
+    },
+    {
+      "name": "Scosche",
+      "count": 27
+    },
+    {
+      "name": "Seagate",
+      "count": 40
+    },
+    {
+      "name": "Seal-A-Meal",
+      "count": 1
+    },
+    {
+      "name": "Secur",
+      "count": 1
+    },
+    {
+      "name": "Sennheiser",
+      "count": 19
+    },
+    {
+      "name": "SentrySafe",
+      "count": 2
+    },
+    {
+      "name": "Serene Innovations",
+      "count": 1
+    },
+    {
+      "name": "Serta",
+      "count": 4
+    },
+    {
+      "name": "Shark",
+      "count": 18
+    },
+    {
+      "name": "Sharkk",
+      "count": 4
+    },
+    {
+      "name": "Sharp",
+      "count": 35
+    },
+    {
+      "name": "Shop-Vac",
+      "count": 3
+    },
+    {
+      "name": "Siemens",
+      "count": 1
+    },
+    {
+      "name": "Sigma",
+      "count": 4
+    },
+    {
+      "name": "Simple Mobile",
+      "count": 2
+    },
+    {
+      "name": "Simpli Home",
+      "count": 2
+    },
+    {
+      "name": "SIMtraveler",
+      "count": 1
+    },
+    {
+      "name": "Singer",
+      "count": 1
+    },
+    {
+      "name": "Sirius",
+      "count": 2
+    },
+    {
+      "name": "SiriusXM",
+      "count": 12
+    },
+    {
+      "name": "Skil",
+      "count": 8
+    },
+    {
+      "name": "SKIL",
+      "count": 2
+    },
+    {
+      "name": "Skullcandy",
+      "count": 53
+    },
+    {
+      "name": "SkyBell",
+      "count": 2
+    },
+    {
+      "name": "Sling Media",
+      "count": 3
+    },
+    {
+      "name": "Smart Choice",
+      "count": 17
+    },
+    {
+      "name": "SmartLens",
+      "count": 3
+    },
+    {
+      "name": "SodaStream",
+      "count": 11
+    },
+    {
+      "name": "SOL REPUBLIC",
+      "count": 15
+    },
+    {
+      "name": "Solaire",
+      "count": 2
+    },
+    {
+      "name": "Soleus",
+      "count": 1
+    },
+    {
+      "name": "Solo",
+      "count": 7
+    },
+    {
+      "name": "Solofill",
+      "count": 1
+    },
+    {
+      "name": "Sonax",
+      "count": 13
+    },
+    {
+      "name": "Sonic Alert",
+      "count": 1
+    },
+    {
+      "name": "SONOS",
+      "count": 13
+    },
+    {
+      "name": "Sony",
+      "count": 251
+    },
+    {
+      "name": "SoundQuest",
+      "count": 1
+    },
+    {
+      "name": "South Shore",
+      "count": 5
+    },
+    {
+      "name": "Spa Sonic",
+      "count": 1
+    },
+    {
+      "name": "SpeakerCraft",
+      "count": 8
+    },
+    {
+      "name": "Speck",
+      "count": 170
+    },
+    {
+      "name": "Sphero",
+      "count": 4
+    },
+    {
+      "name": "Spotify",
+      "count": 3
+    },
+    {
+      "name": "Sprint",
+      "count": 1
+    },
+    {
+      "name": "Sprint Prepaid",
+      "count": 2
+    }
+  ]
+}
